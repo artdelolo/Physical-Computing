@@ -9,3 +9,9 @@
 
 
 ### [The Color Mixing Lamp](https://vimeo.com/317195269)
+
+
+### [Sensor Walk](https://vimeo.com/317174873)
+
+
+### [Knock Lock](https://vimeo.com/317195269)

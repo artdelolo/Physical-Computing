@@ -52,6 +52,7 @@ void loop() {
     if(counter == 0){
       digitalWrite(led1, LOW);
       digitalWrite(led2, LOW);
+      counter = 0;s
     }
     else if(counter == 1){
       digitalWrite(led1, HIGH);
@@ -62,7 +63,7 @@ void loop() {
       digitalWrite(led2, HIGH);
     }
      else if(counter == 3){
-      if(millis() - prevMillis > interval){
+      if(millis() - prevMillis >= interval){
         prevMillis = millis();
         if(trigger == false){
           trigger = true;

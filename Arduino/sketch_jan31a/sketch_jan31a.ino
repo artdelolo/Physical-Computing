@@ -1,18 +1,15 @@
-int ledPin1 = 10;
-int ledPin2 = 11;
-int ledBright;
+int tonePin = 8;
+int photoPin = A0;
+int photoRead = 0;
 
-int pot1 = A0;
-
-int potRead = 0;
+int lowLimit = 0;
+int highLimit = 600;
 
 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
 
-  pinMode(ledPin1, OUTPUT);
-  pinMode(ledPin2, OUTPUT);
 
 }
 
@@ -22,16 +19,23 @@ void loop() {
   //digitalWrite(ledPin2, HIGH); // Sets the signal in 3 to HIGH (turn on the LED) and 4 and 5 to LOW (turn off the LEDs connected to 4 and 5)
   //analogWrite(ledPin1, 10);
 
+  if(photoRead < lowLimit){
+    photoRead = lowLimit;
+  }
+  if(photoRead > highLimit){
+    photoRead = highLimit;
+  }
 
-  potRead = analogRead(pot1);
+  photoRead = analogRead(photoPin);
   
-  int mapped = map(potRead, 0, 700, 0, 255);
+  int mapped = map(photoRead, 60, 1020, 31, 4978);
   
-  Serial.println(potRead);
+  Serial.println(photoRead);
+  Serial.println(mapped);
+  
 
-  ledBright = mapped;
+ //tone(tonePin,mapped,100);
 
-  analogWrite(ledPin1, ledBright);
 
   /*if (potRead < 512) {
     analogWrite(ledPin2, ledBright);
