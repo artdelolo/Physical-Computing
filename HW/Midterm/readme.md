@@ -1,7 +1,5 @@
 # MIDTERM
 
-
-
 ### [CONTROL THE LIGHT](https://vimeo.com/334810182)
 
 ##### [Slideshow](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/_Balance%20the%20Light%20..pdf)
@@ -14,7 +12,7 @@
 
 
 ###  Code
-   * A counter is controled by the two big buttons, one adds to the counter, one subtracts.
+   * A counter is controlled by the two big buttons, one adds to the counter, one subtracts.
    * based on value of the counter is how many LEDs are turned on at a time
    * When all LEDs are on or off a buzzer goes off signaling a winner
 
@@ -26,7 +24,7 @@
 
 ###  Components
 * Two BIG buttons
-* RGB LEDs
+* YELLOW LEDs
 * Piezo Speaker
 * One Switch
 
