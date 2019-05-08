@@ -1,7 +1,5 @@
 # MIDTERM
 
-![titlecard](https://github.com/artdelolo/CIM640/blob/master/Homework/p5/DemetersWrath/assets/TitleCard.jpg)
-
 ### [CONTROL THE LIGHT](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
 
   ### Battle off against your opponent for control of the light in the room.
@@ -37,6 +35,6 @@
 
 ### Images and Videos
 
- ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-1.jpg)
+ ![1](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-1.jpg)
 
-  ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-2.jpg)
+  ![2](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-2.jpg)
