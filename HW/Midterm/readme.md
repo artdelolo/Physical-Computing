@@ -1,12 +1,16 @@
 # MIDTERM
 
+
+
 ### [CONTROL THE LIGHT](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
+
+##### [Slideshow](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/_Balance%20the%20Light%20..pdf)
 
   ### Battle off against your opponent for control of the light in the room.
 
  Using the up arrow to jump over the wheat, you must journey to the entrance of the Underworld as the seasons change around you.
 
- ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-sketch.jpg)
+ ![s](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-sketch.jpg)
 
 
 ###  Code
@@ -34,6 +38,8 @@
 * LED inside winning button lights up
 
 ### Images and Videos
+
+##### [PROGRESS VIDEO](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
 
  ![1](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-1.jpg)
 
