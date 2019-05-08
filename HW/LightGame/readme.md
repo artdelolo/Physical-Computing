@@ -39,3 +39,7 @@
 ![4](https://github.com/artdelolo/Physical-Computing/blob/master/HW/LightGame/balance-4.png)
 
 ![5](https://github.com/artdelolo/Physical-Computing/blob/master/HW/LightGame/balance-5.png)
+
+![6](https://github.com/artdelolo/Physical-Computing/blob/master/HW/LightGame/balance-6.png)
+
+![7](https://github.com/artdelolo/Physical-Computing/blob/master/HW/LightGame/balance-7.png)
