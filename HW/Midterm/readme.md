@@ -2,7 +2,7 @@
 
 
 
-### [CONTROL THE LIGHT](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
+### [CONTROL THE LIGHT](https://vimeo.com/334810182)
 
 ##### [Slideshow](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/_Balance%20the%20Light%20..pdf)
 
@@ -39,7 +39,7 @@
 
 ### Images and Videos
 
-##### [PROGRESS VIDEO](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
+##### [PROGRESS VIDEO](https://vimeo.com/334810182)
 
  ![1](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-1.jpg)
 
