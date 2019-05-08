@@ -4,25 +4,39 @@
 
 ### [CONTROL THE LIGHT](https://vimeo.com/lorenalopez/review/334810182/f79a6238a9)
 
-### You are the goddess Persephone and must get back to the Underworld without hitting one of your mother, Demeter's wheat bundles!
+  ### Battle off against your opponent for control of the light in the room.
 
  Using the up arrow to jump over the wheat, you must journey to the entrance of the Underworld as the seasons change around you.
 
  ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-sketch.jpg)
 
 
-Greek mythology has always been a strong interest of mine, and something I haven't seen many interactive games geared towards children with. I wanted to try and create a simple game that introduced some key elements of the myth of Hades and Persephone but animated in a childlike manner. While I was unable to complete the project with my full idea of a second player who controls the seasons, it is something I would like to add later on.
+###  Code
+   * A counter is controled by the two big buttons, one adds to the counter, one subtracts.
+   * based on value of the counter is how many LEDs are turned on at a time
+   * When all LEDs are on or off a buzzer goes off signaling a winner
 
- ### INPUTS
- * mousePressed
- * keyPressed
+##### Reflection
+* I wanted to be able to reset the game, reset button needs work
+* I want the LEDs to be more visible
+* Add a way for others to see game progress
 
- ### OUTPUTS
- * Persephone Jumps
 
- ### Audience
- * Children learning about Greek mythology
+###  Components
+* Two BIG buttons
+* RGB LEDs
+* Piezo Speaker
+* One Switch
 
- ### Platform
- * Web/Online
- * Interactive exhibit on Greek gods
+##### INPUTS  
+* Big buttons as the input for gameplay
+##### OUTPUTS  
+* LEDs inside box as progress
+* Piezo tone to signal game end
+* LED inside winning button lights up
+
+### Images and Videos
+
+ ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-1.jpg)
+
+  ![persephone](https://github.com/artdelolo/Physical-Computing/blob/master/HW/Midterm/balance-2.jpg)
