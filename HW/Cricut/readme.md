@@ -1,4 +1,4 @@
-#CRICUT PROJECT
+# CRICUT PROJECT
 
 Since my box was build from cardboard I decided to use the cricut to make vinyl instructions for how to play.
 
